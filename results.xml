@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1733426062" />
+    <testcase name="BC_I_TEST" classname="cocotb_BC_I_test" file="C:\Users\mertmihci\Desktop\odtu\EE445\my_comp\cocotb_BC_I_test.py" lineno="21" time="0.01700425148010254" sim_time_ns="1265000.001" ratio_time="74393159.99767676" />
+  </testsuite>
+</testsuites>
