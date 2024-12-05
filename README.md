@@ -12,5 +12,7 @@ How to Run Tests:
 Ensure you have Icarus Verilog installed as the simulation tool. If you're using a different simulator, adjust the Makefile accordingly.
 Navigate to the project folder in your terminal.
 Run the following command:
+
 make
+
 This will compile and simulate the design while running the Cocotb-based testbenches
